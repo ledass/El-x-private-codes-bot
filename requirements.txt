@@ -8,3 +8,5 @@ requests
 bs4
 imdbpy
 aiohttp
+setuptools
+
